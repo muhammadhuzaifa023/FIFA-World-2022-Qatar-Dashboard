@@ -15,7 +15,8 @@ On the second page, I've compiled key performance indicators (KPIs) that reveal 
 - 🎂 Average Player Age
 - ⚽ Total Goals Scored
 - And much more, all presented in engaging charts and visuals!
-![Statistics Page of Dashboard FIFA World Cup 2022](img/Statistics%20Page%20of%20Dashboard%20FIFA%20World%20Cup%202022.PNG)
+![Statistics Page of Dashboard FIFA World Cup 2022](img/Staticics%20Page%20of%20Dashboard%20FIFA%20World%20Cup%202022.PNG)
+
 
 
 

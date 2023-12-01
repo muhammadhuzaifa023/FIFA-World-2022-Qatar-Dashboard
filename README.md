@@ -18,3 +18,4 @@ On the second page, I've compiled key performance indicators (KPIs) that reveal 
 ![Statistics Page of Dashboard FIFA World Cup 2022](img/Statistics%20Page%20of%20Dashboard%20FIFA%20World%20Cup%202022.PNG)
 
 
+
